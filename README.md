@@ -13,9 +13,12 @@ I'm Swapnil, a passionate developer and tech enthusiast. I love exploring new te
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing chess and solving puzzles.
 
-### Badges and Stats
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzSwapnil&show_icons=true&theme=radical)
+
+### Top Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSwapnil&layout=compact&theme=radical)
 
 ### Connect with me
