@@ -17,7 +17,6 @@ I'm Swapnil, a passionate developer and tech enthusiast. I love exploring new te
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzSwapnil&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSwapnil&layout=compact&theme=radical)
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ### Connect with me
 
@@ -27,4 +26,4 @@ I'm Swapnil, a passionate developer and tech enthusiast. I love exploring new te
 
 ### Recent Project
 
-![Project GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+🚀 Check out my latest project: [Project Name](https://github.com/ItzSwapnil/ProjectName)
