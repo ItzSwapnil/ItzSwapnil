@@ -29,6 +29,6 @@ I'm Swapnil, a passionate developer and tech enthusiast. I love exploring new te
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/itzswapnil/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?logo=instagram)](https://twitter.com/your-profile)
 
-```
+<!--
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
-```
+-->
