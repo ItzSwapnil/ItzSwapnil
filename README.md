@@ -23,3 +23,7 @@ I'm Swapnil, a passionate developer and tech enthusiast. I love exploring new te
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-profile)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
+
+### Animations
+
+![Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
