@@ -7,13 +7,14 @@ I'm Swapnil, a passionate developer and tech enthusiast. I love exploring new te
 - 🔭 I’m currently working on: Building awesome web applications and exploring AI/ML.
 - 🌱 I’m currently learning: Advanced JavaScript, React, and Machine Learning.
 - 👯 I’m looking to collaborate on: Open source projects and innovative tech solutions.
-```
+<!--
 - 🤔 I’m looking for help with: Improving my knowledge in cloud computing and DevOps.
-```
+-->
+
 - 💬 Ask me about: Web development, AI/ML and Python, 
-```
+<!--
 - 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-profile)
-```
+-->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love codding random stuff and solving puzzles.
 
