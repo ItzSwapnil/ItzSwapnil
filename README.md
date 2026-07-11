@@ -86,7 +86,7 @@ Deep Adaptive Reinforcement Trader.
 ### 🌿 Leaf Disease Detection
 Vision-first agriculture AI research.
 
-`TensorFlow` `DINOv3` `Explainable AI`
+`TensorFlow` `DINOv3` <br> `Explainable AI`
 
 [Repository](https://github.com/ItzSwapnil/Leaf_Disease_Detection)
 
