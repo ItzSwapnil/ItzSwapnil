@@ -120,15 +120,15 @@ Vision-first agriculture AI research.
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ItzSwapnil&theme=github-compact&hide_border=true&area=true"
-  alt="activity graph" />
+  src="https://streak-stats.demolab.com?user=ItzSwapnil&mode=weekly&theme=tokyonight&hide_border=true"
+  alt="streak stats" />
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ItzSwapnil&mode=weekly&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzSwapnil&theme=github-compact&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 ---
