@@ -14,9 +14,9 @@
 
 ---
 
-## <span>⚡</span> Mission Control
+## ⚡ Mission Control
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -39,7 +39,7 @@ mode: build > explain > ship
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 <img src="./assets/terminal.svg" alt="terminal card" width="100%" />
 
@@ -49,7 +49,7 @@ mode: build > explain > ship
 
 ---
 
-## <span>🧠</span> Core Stack
+## 🧠 Core Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,html,css,tailwind,tensorflow,pytorch,opencv,mysql,sqlite,git,github,linux,bash,docker,vscode,pycharm&perline=11" alt="skills" />
@@ -57,9 +57,9 @@ mode: build > explain > ship
 
 ---
 
-## <span>🚀</span> Featured Systems
+## 🚀 Featured Systems
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 
@@ -96,24 +96,44 @@ Vision-first agriculture AI research.
 
 ---
 
-## <span>📊</span> Live Analytics
+## 📊 Live Analytics
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+<img
+  width="100%"
+  src="https://github-stats-extended.vercel.app/api?username=ItzSwapnil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  alt="github stats" />
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img
+  width="100%"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=ItzSwapnil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="top languages" />
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ItzSwapnil&theme=github-compact&hide_border=true&area=true"
+  alt="activity graph" />
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=ItzSwapnil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="github stats" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ItzSwapnil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ItzSwapnil&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzSwapnil&theme=github-compact&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://streak-stats.demolab.com?user=ItzSwapnil&mode=weekly&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ---
 
-## <span>🛰️</span> Runtime Signals
+## 🛰️ Runtime Signals
 
 <p align="center">
   <img src="https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -125,7 +145,7 @@ Vision-first agriculture AI research.
 
 ---
 
-## <span>🎯</span> What I'm Building
+## 🎯 What I'm Building
 
 - Autonomous AI systems and trading automation
 - Computer vision pipelines and explainable ML
@@ -135,7 +155,7 @@ Vision-first agriculture AI research.
 
 ---
 
-## <span>🐍</span> Contribution Animation
+## 🐍 Contribution Animation
 
 <p align="center">
   <picture>
@@ -147,7 +167,15 @@ Vision-first agriculture AI research.
 
 ---
 
-## <span>🤝</span> Connect
+## 📡 GitHub Metrics Dashboard
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/ItzSwapnil?template=classic&config.timezone=Asia%2FKolkata" alt="github metrics" width="100%" />
+</p>
+
+---
+
+## 🤝 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/itzswapnil/">
@@ -164,12 +192,3 @@ Vision-first agriculture AI research.
 <p align="center">
   <i>"Code. Learn. Build. Repeat."</i>
 </p>
-
----
-
-## <span>🛠</span> Optional setup after upload
-
-1. Keep this repo public and named exactly like your GitHub username.
-2. Enable GitHub Actions in the repository settings.
-3. Let the snake workflow run once to generate the animated SVGs.
-4. Replace any project links or badges that you want to personalize further.
