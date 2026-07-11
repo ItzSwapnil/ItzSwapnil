@@ -20,9 +20,9 @@ I'm Swapnil, a passionate developer and tech enthusiast. I love exploring new te
 
 ### Badges and Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzSwapnil&show_icons=true&theme=radical)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ItzSwapnil&border_radius=25)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSwapnil&layout=compact&theme=radical)
+![Top Languages](https://ghstats.dev/api/langs?username=ItzSwapnil&border_radius=25)
 
 ### Connect with me
 
