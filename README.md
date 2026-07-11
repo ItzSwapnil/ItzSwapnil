@@ -166,7 +166,7 @@ Vision-first agriculture AI research.
 </p>
 
 ---
-
+<!--
 ## 📡 GitHub Metrics Dashboard
 
 <p align="center">
@@ -174,6 +174,7 @@ Vision-first agriculture AI research.
 </p>
 
 ---
+-->
 
 ## 🤝 Connect
 
